@@ -1,2 +1,3 @@
-starting with github
-3 working with main
+1 starting with github
+2 Doing first commit
+
